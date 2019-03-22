@@ -1,3 +1,2 @@
-function test() {
-    console.log('test');
-}
+console.log('first');
+console.log('sec');
